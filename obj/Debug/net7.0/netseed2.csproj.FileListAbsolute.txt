@@ -1,0 +1,15 @@
+C:\Workspaces\netseed2\bin\Debug\net7.0\netseed2.exe
+C:\Workspaces\netseed2\bin\Debug\net7.0\netseed2.deps.json
+C:\Workspaces\netseed2\bin\Debug\net7.0\netseed2.runtimeconfig.json
+C:\Workspaces\netseed2\bin\Debug\net7.0\netseed2.dll
+C:\Workspaces\netseed2\bin\Debug\net7.0\netseed2.pdb
+C:\Workspaces\netseed2\obj\Debug\net7.0\netseed2.csproj.AssemblyReference.cache
+C:\Workspaces\netseed2\obj\Debug\net7.0\netseed2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspaces\netseed2\obj\Debug\net7.0\netseed2.AssemblyInfoInputs.cache
+C:\Workspaces\netseed2\obj\Debug\net7.0\netseed2.AssemblyInfo.cs
+C:\Workspaces\netseed2\obj\Debug\net7.0\netseed2.csproj.CoreCompileInputs.cache
+C:\Workspaces\netseed2\obj\Debug\net7.0\netseed2.dll
+C:\Workspaces\netseed2\obj\Debug\net7.0\refint\netseed2.dll
+C:\Workspaces\netseed2\obj\Debug\net7.0\netseed2.pdb
+C:\Workspaces\netseed2\obj\Debug\net7.0\netseed2.genruntimeconfig.cache
+C:\Workspaces\netseed2\obj\Debug\net7.0\ref\netseed2.dll
